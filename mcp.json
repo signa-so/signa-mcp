@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "signa": {
+      "type": "http",
+      "url": "https://api.signa.so/mcp"
+    }
+  }
+}

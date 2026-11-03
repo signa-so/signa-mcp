@@ -111,7 +111,7 @@ With OAuth, the server exposes read-only tools. Write tools only manage your own
 
 ## This repository
 
-The server is hosted by Signa; its code is not in this repository. This repository holds the public listing for MCP directories and registries: this README, [`server.json`](server.json) for the official MCP Registry and the logo.
+The server is hosted by Signa; its code is not in this repository. This repository holds the public listing for MCP directories and registries: this README, [`server.json`](server.json) for the official MCP Registry, a Cursor plugin ([`.cursor-plugin/plugin.json`](.cursor-plugin/plugin.json) and [`mcp.json`](mcp.json)) and the logo.
 
 Support: support@signa.so · [signa.so/contact](https://signa.so/contact)
 

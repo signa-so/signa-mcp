@@ -1,0 +1,15 @@
+{
+  "name": "signa",
+  "displayName": "Signa",
+  "version": "1.0.0",
+  "description": "Search, screen and monitor trademarks across USPTO, EUIPO, WIPO, UKIPO and more with one API.",
+  "author": { "name": "Signa", "email": "support@signa.so" },
+  "homepage": "https://signa.so",
+  "repository": "https://github.com/signa-so/signa-mcp",
+  "license": "MIT",
+  "logo": "assets/icon.png",
+  "keywords": ["signa", "trademark", "trademarks", "trademark-search", "uspto", "euipo", "wipo", "ukipo", "intellectual-property", "mcp"],
+  "category": "integrations",
+  "tags": ["trademarks", "legal", "search", "mcp"],
+  "mcpServers": "./mcp.json"
+}
